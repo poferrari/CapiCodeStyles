@@ -14,6 +14,7 @@ Tópicos abordados:
 1. [Testes][Testes]
 1. [SQL e Banco de dados][SqlDb]
 1. [Versionamento][Versionamento]
+1. [Revisão de código][RevisaoCodigo]
 
 [PadronizacaoDeProjetos]: ./Contents/PadronizacaoDeProjetos.md
 [OrganizacaoDasClasses]: ./Contents/OrganizacaoDasClasses.md
@@ -25,3 +26,4 @@ Tópicos abordados:
 [Solid]: ./Contents/Solid.md
 [SqlDb]: ./Contents/SqlDb.md
 [Versionamento]: ./Contents/Versionamento.md
+[RevisaoCodigo]: ./Contents/RevisaoCodigo.md
