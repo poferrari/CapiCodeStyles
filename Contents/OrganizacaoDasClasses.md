@@ -19,7 +19,7 @@ Um bom layout usa formatação para enfatizar a estrutura do código e para faci
 
 ## Exemplos
 
-### Variáveis de classe (Fields) devem ser declaradas antes de construtor, seguindo a ordem de maior para menor visibilidade.
+Variáveis de classe (Fields) devem ser declaradas antes de construtor, seguindo a ordem de maior para menor visibilidade.
 
 ```C#
 public class Foo
@@ -35,7 +35,7 @@ public class Foo
 }    
 ```
 
-### Propriedades devem ser declaradas após o construtor, seguindo a ordem de maior para menor visibilidade.
+Propriedades devem ser declaradas após o construtor, seguindo a ordem de maior para menor visibilidade.
 
 ```C#
 public class Foo
@@ -51,7 +51,7 @@ public class Foo
 }    
 ```
 
-### Métodos devem ser declarados após as propriedades, observando a ordem em que são chamados no código, agrupados pelo grau de visibilidade da maior para a menor.
+Métodos devem ser declarados após as propriedades, observando a ordem em que são chamados no código, agrupados pelo grau de visibilidade da maior para a menor.
 
 ```C#
 public class Foo
