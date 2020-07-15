@@ -1,0 +1,1 @@
+TODO: Padrões de nomeclatura de request e response e outros padrões ligados a web api.
